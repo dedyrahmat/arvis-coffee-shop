@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "product_name": "Aceh Gayo",
+        "description": "Siapa yang tidak kenal dengan kopi Aceh Gayo yang sudah tersohor kenikmatannya? Kopi yang berasal dari daerah Tanah Gayo Aceh Tengah ini menjadi salah satu jenis kopi yang paling banyak dikonsumsi masyarakat maupun yang diekspor ke luar negeri. Kopi Gayo memiliki ciri unik dengan kekhasan aroma yang berbeda dengan kopi-kopi lain di Indonesia. Kopi Gayo menghasilkan sebagian besar jenis kopi Arabika terbaik. Cita rasa kopi Gayo sendiri terasa lebih pahit dengan tingkat keasaman rendah. Aromanya yang sangat tajam menjadikan jenis kopi ini disukai. Tak heran kopi ini menjadi penghasil kopi terbesar di Asia. Meskipun rasanya pahit, kopi Gayo memberi aroma gurih pada setiap tegukan.",
+        "price": 65000,
+        "image_url": "https://s-ecom.ottenstatic.com/original/5eddca2c0d447532998019.jpg"
+    },
+    {
+        "id": 2,
+        "product_name": "Bali Honey Process",
+        "description": "Untuk setiap bubuk kopi single origin yang dijual di Otten Coffee, semuanya digiling dengan memakai mesin penggiling Mahlkonig VTA 6S. Mesin ini memiliki conical burr yang terkenal dengan hasil gilingan yang presisi di setiap partikel gilingannya. Karenanya, kini para pelanggan setia Otten Coffee bisa memilih berbagai rentang pilihan level gilingan sesuai dengan kebutuhan masing-masing, mulai dari super fine hingga coarse.",
+        "price": 95000,
+        "image_url": "https://s-ecom.ottenstatic.com/original/5f11766fa1fa2217829245.jpg"
+    },
+    {
+        "id": 3,
+        "product_name": "Bali Natural Process",
+        "description": "Untuk setiap bubuk kopi single origin yang dijual di Otten Coffee, semuanya digiling dengan memakai mesin penggiling Mahlkonig VTA 6S. Mesin ini memiliki conical burr yang terkenal dengan hasil gilingan yang presisi di setiap partikel gilingannya. Karenanya, kini para pelanggan setia Otten Coffee bisa memilih berbagai rentang pilihan level gilingan sesuai dengan kebutuhan masing-masing, mulai dari super fine hingga coarse.",
+        "price": 90000,
+        "image_url": "https://s-ecom.ottenstatic.com/original/5edf5d6151d0f368681555.jpg"
+    },
+    {
+        "id": 4,
+        "product_name": "Garut Honey Process",
+        "description": "Kopi single origin Garut pertama kali dibawa oleh kolonial Belanda dan ditanam di daerah pegunungan di Jawa Barat sekitar kota Garut. Daerah penanaman kopi Garut ini berada di ketinggian minimal 1,300 meter di atas permukaan laut, dimana tanahnya masih tergolong subur dan memiliki iklim/cuaca yang sejuk. Kopi-kopi Garut pun cukup diperhatikan penanaman dan pengolahannya sehingga tak heran jika kopi-kopi Garut saat ini termasuk daerah penghasil kopi-kopi terbaik dari Jawa Barat.",
+        "price": 90000,
+        "image_url": "https://s-ecom.ottenstatic.com/original/5eddc9fb05876766748783.jpg"
+    },
+    {
+        "id": 5,
+        "product_name": "Java Ijen Sukawangi",
+        "description": "Untuk setiap bubuk kopi single origin yang dijual di Otten Coffee, semuanya digiling dengan memakai mesin penggiling Mahlkonig VTA 6S. Mesin ini memiliki conical burr yang terkenal dengan hasil gilingan yang presisi di setiap partikel gilingannya. Karenanya, kini para pelanggan setia Otten Coffee bisa memilih berbagai rentang pilihan level gilingan sesuai dengan kebutuhan masing-masing, mulai dari super fine hingga coarse.",
+        "price": 75000,
+        "image_url": "https://s-ecom.ottenstatic.com/original/5eddc9fb05876766748783.jpg"
+    },
+    {
+        "id": 6,
+        "product_name": "Kerinci Kayu Aro",
+        "description": "Kopi-kopi single origin asal Sumatera belakangan muncul semakin beragam dan menarik. Salah satu single origin spesialti asal pulau Sumatera dengan citarasa yang tidak kalah memesona adalah dari Kerinci, tepatnya dari Kayu Aro yang semakin melengkapi koleksi single origin di Otten Coffee ini.",
+        "price": 90000,
+        "image_url": "https://s-ecom.ottenstatic.com/original/5eddcb8dc36c8749944230.jpg"
+    }
+]
